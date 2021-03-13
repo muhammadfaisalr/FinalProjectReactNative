@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447413947569",
+    "project_id": "sanberapp-1af0f",
+    "storage_bucket": "sanberapp-1af0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447413947569:android:a92cdff85a3e8a65a92690",
+        "android_client_info": {
+          "package_name": "me.muhammadfaisal.cekresi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447413947569-9co01rmgp2o183plfedr5r5qr9vi2kuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmwf1frbxjq55tlhk_Eb2rZq94HF7qGis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447413947569-9co01rmgp2o183plfedr5r5qr9vi2kuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
